@@ -1,2 +1,2 @@
-# Triminator_in_balls_of_fury
-An updated version of my initial pong game that I used as a template to learn.
+# Triminator_takes_on_tic_tac_toe
+1st attempt at tic tac toe, no sound or animations
